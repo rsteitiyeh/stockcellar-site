@@ -1,0 +1,17 @@
+{
+  "kind": "calculator",
+  "heading": "Example calculator",
+  "sub": "Template placeholder. Replace src/config/tool.json + src/tools/compute.js per site.",
+  "fields": [
+    { "id": "a", "label": "Value A", "type": "number", "value": 10, "min": 0 },
+    { "id": "b", "label": "Value B", "type": "number", "value": 5, "min": 0 }
+  ],
+  "outputs": [
+    { "id": "sum", "label": "Sum", "note": "a + b" }
+  ],
+  "statuses": [
+    { "id": "ok", "label": "OK", "tone": "ok" },
+    { "id": "warn", "label": "Check inputs", "tone": "warn" }
+  ],
+  "disclaimer": "Template placeholder."
+}

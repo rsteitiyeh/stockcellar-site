@@ -1,0 +1,20 @@
+{
+  "name": "StockCellar",
+  "short_name": "StockCellar",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "theme_color": "#78603c",
+  "background_color": "#f3ecdd",
+  "display": "browser",
+  "start_url": "/"
+}

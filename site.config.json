@@ -1,0 +1,21 @@
+{
+  "SITE": "https://stockcellar.com",
+  "BRAND": "StockCellar",
+  "niche": "110-food-storage",
+  "stealth": false,
+  "toolArchetype": "calculator",
+  "mailerlite": { "formAction": "", "groupId": "" },
+  "cfBeaconToken": "",
+  "magnet": { "file": "", "doneMessage": "You're in - your download is starting now." },
+  "author": { "name": "StockCellar", "bio": "A household reference for food storage: shelf lives, packing methods, and rotation, drawn from extension-service publications." },
+  "comingSoon": { "promise": "A household reference for food storage is on the way.", "captureLabel": "Get notified at launch" },
+  "theme": {
+    "bg": "#f3ecdd",
+    "ink": "#2a2621",
+    "accent": "#6f1d1d",
+    "accent2": "#78603c",
+    "headingFont": "'Bodoni Moda', Didot, 'Times New Roman', serif",
+    "bodyFont": "'EB Garamond', Georgia, serif"
+  },
+  "ga4": { "measurementId": "" }
+}
