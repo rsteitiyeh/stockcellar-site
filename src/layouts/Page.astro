@@ -22,6 +22,7 @@ const t = site.theme;
 </Base>
 
 <style define:vars={{ bg: t.bg, ink: t.ink, accent: t.accent, headingFont: t.headingFont, bodyFont: t.bodyFont }} is:global>
+  html,body{background:var(--bg)}
   .page { max-width: 720px; margin: 0 auto; padding: 48px 20px 80px; background: var(--bg); color: var(--ink); font-family: var(--bodyFont); }
   .page h1 { font-family: var(--headingFont); }
   .page-brand a { font-weight: 900; color: var(--accent); text-decoration: none; }
