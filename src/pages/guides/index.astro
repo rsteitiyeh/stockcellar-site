@@ -23,7 +23,7 @@ const t = site.theme;
     <ul>
       {articles.map((a) => (
         <li>
-          <a href={`/${a.id}/`}>{a.data.title}</a>
+          <h2><a href={`/${a.id}/`}>{a.data.title}</a></h2>
           <p>{a.data.description}</p>
           <small>{fmt(a.data.updatedDate ?? a.data.publishDate)}</small>
         </li>
@@ -66,4 +66,5 @@ const t = site.theme;
   footer p{font-size:13px;opacity:.75;line-height:1.7;margin:0 0 8px}
   footer small{font-size:13px;opacity:.75}
   @media(max-width:850px){.nav nav{display:none}}
+  .guides li h2 { margin: 0; }
 </style>
