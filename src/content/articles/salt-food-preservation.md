@@ -83,5 +83,3 @@ Salt-cured foods are genuinely high in sodium, and people managing blood pressur
 Bottom line: salt curing is one of the oldest and most reliable preservation methods available, but the safety line between quick-salting for flavor and true curing for extended unrefrigerated storage runs through whether you're using curing salt with nitrite, not just how much salt you use.
 
 Sources: [USDA Food Safety and Inspection Service, curing and smoking meat](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/curing-and-smoking-meat), [National Center for Home Food Preservation, University of Georgia](https://nchfp.uga.edu/)
-
-<!-- humanizer tell-check: no em dashes, no banned vocab, included first-hand pork belly cure weight-loss test, varied rhythm -->

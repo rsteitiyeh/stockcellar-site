@@ -52,8 +52,6 @@ Glass is rigid and does not flex to accommodate the roughly 9% volume expansion 
 
 Glass jars stack less efficiently than flat freezer bags and take up real shelf space, so a household freezing regularly in jars benefits from a dedicated shelf or bin arranged by food type and date rather than mixing jars in randomly among other frozen items. Because jar contents are visible without unwrapping anything, a quick glance at a labeled, organized shelf tells you what's available far faster than digging through a mixed freezer bag pile, a real advantage of the format despite its bulk.
 
-
-
 ## Freezing liquids specifically, soups and stock
 
 Soups, stocks, and sauces are the highest-expansion foods to freeze in jars because they are almost entirely liquid, and they benefit from the largest headspace allowance, 1 to 1.5 inches, along with a wide-mouth jar specifically. Portioning stock into smaller jars, pints rather than quarts, both reduces the total expansion pressure per jar and gives more flexibility when thawing only what's needed for a single recipe rather than defrosting an entire quart at once.

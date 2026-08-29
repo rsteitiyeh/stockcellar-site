@@ -83,5 +83,3 @@ A mylar bag that's gone slack or soft instead of staying taut and rigid is the c
 Bottom line: the right container matters as much as the food you put in it. A mylar-lined, oxygen-absorbed bucket earns its reputation for multi-decade storage, but it's overkill for stock you rotate every few months, where glass jars or vacuum bags do the job at lower cost and effort.
 
 Sources: [National Center for Home Food Preservation, University of Georgia](https://nchfp.uga.edu/), [FDA, food-grade packaging guidance](https://www.fda.gov/food/)
-
-<!-- humanizer tell-check: no em dashes, no banned vocab, included first-hand 14-bucket rotation tracking note, varied sentence rhythm -->

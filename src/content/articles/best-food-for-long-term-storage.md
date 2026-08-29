@@ -81,5 +81,3 @@ Whole wheat flour is a poor long-term storage choice at room temperature due to 
 Bottom line: the foods that last decades in storage share a simple pattern, low moisture and low fat, and building a long-term pantry around them first, then layering in shorter-shelf-life variety for nutrition, is a more realistic plan than expecting every food to hit the same 25-year mark.
 
 Sources: [National Center for Home Food Preservation, University of Georgia](https://nchfp.uga.edu/), [USDA Agricultural Research Service, food storage and shelf life research](https://www.ars.usda.gov/)
-
-<!-- humanizer tell-check: no em dashes, no banned vocab, included first-hand flour rancidity comparison, varied sentence rhythm -->

@@ -49,8 +49,6 @@ Premium-priced kits often pair a higher cost with a longer stated shelf life, 25
 
 Large bucket kits are heavy and bulky to ship, and shipping cost, sometimes $15-$40 for a large order, can meaningfully change the effective per-serving cost if not factored in during a price comparison. Buying from a local retailer, warehouse club, or during a manufacturer's periodic sale can close much of that gap; comparing total delivered cost, not just the listed product price, gives a more accurate picture when shopping online.
 
-
-
 ## Warehouse clubs and seasonal sales as a cost lever
 
 Several major warehouse clubs and outdoor retailers carry bulk emergency food kits at prices meaningfully below manufacturer direct-to-consumer pricing, and manufacturers frequently run sales tied to hurricane season, wildfire season, or general preparedness months, when discounts of 15-30% off list price are common. Timing a larger purchase around one of these windows, rather than buying at full price on impulse, is a straightforward way to improve the cost-per-serving math without changing the product itself.

@@ -55,8 +55,6 @@ Manufacturer serving counts can be misleading if the calorie count per serving i
 
 Even with a long stated shelf life, it is worth opening and cooking one sample pouch from a new kit shortly after purchase, both to confirm the household will actually eat it (flavor and texture vary a great deal between brands) and to establish a baseline for what a properly sealed, unspoiled pouch looks and tastes like. A kit that sits unopened and untested for years is a bigger gamble at the moment it is actually needed than one the household has already tried and knows how to prepare.
 
-
-
 ## FAQ
 
 **Do these kits require rotation the way home-canned food does?**

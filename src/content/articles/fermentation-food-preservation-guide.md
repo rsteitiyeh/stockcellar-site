@@ -44,8 +44,6 @@ A wide-mouth glass jar, a fermentation weight (glass or ceramic discs sized to f
 
 Carrots, green beans, radishes, turnips, and peppers all ferment well using the same basic brine-ratio approach as pickles, generally 3.5-5% salt brine by weight of water for whole or cut vegetables submerged in liquid brine, as opposed to the dry-salt method used for shredded cabbage in sauerkraut. Root vegetables in particular tend to ferment more slowly than leafy or high-water-content vegetables and may need an extra week or two at the same temperature to reach full sourness.
 
-
-
 ## Scaling up from a jar to a crock
 
 A gallon-plus fermentation crock, often fitted with a water-sealed lid gutter that functions like a built-in airlock, is the traditional next step once a household moves from occasional small-jar ferments to processing a larger cabbage harvest into sauerkraut at once. Crocks are heavier and less portable than jars but hold temperature more evenly and their weight-and-lid systems are purpose-built for keeping large batches fully submerged, reducing the surface-mold risk that comes with a bigger, harder-to-manage volume of vegetables and brine.

@@ -44,8 +44,6 @@ A layered approach uses each preservation method for what it does best: freeze-d
 
 Manufacturers often list "servings" using a lower calorie-per-serving figure than a full meal, which inflates how many days of coverage a given product count implies. The more reliable approach is dividing total listed calories, usually printed on the container or the manufacturer's website, by 2,000 per person per day to get an honest days-of-coverage number, then cross-checking that figure against how many people the supply needs to feed.
 
-
-
 ## Space efficiency compared to other formats
 
 Freeze-dried food's low weight and, in canned formats, stackable #10 cans make it notably space-efficient compared to the equivalent calories in canned wet-pack goods or bulk bagged staples, which matters for households with limited storage space such as an apartment closet rather than a full basement or garage. A #10 can of freeze-dried vegetables or fruit typically holds several times the servings of an equivalent-sized can of the wet-pack commercial version, purely because there is no water weight or volume to account for.

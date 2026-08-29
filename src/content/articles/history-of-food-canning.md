@@ -46,8 +46,6 @@ Appert's method spread quickly once published, partly because his 1810 book was 
 
 Before Appert's discovery, food preservation relied on methods that predate written history: salting, smoking, drying, fermenting, and burying food in cool ground or ice houses. These methods remain in use today alongside canning precisely because they solve different problems; canning's contribution was a method that preserved food's texture and flavor closer to fresh, in a sealed, transportable, indefinitely stable container, something none of the older methods fully achieved on their own.
 
-
-
 ## Why this history still matters for a stockpile today
 
 Understanding that today's guidelines are the end product of two centuries of trial, error, and corrected mistakes is a useful frame for anyone building a modern food storage plan: the specific numbers (processing times, pressures, altitude adjustments) are not arbitrary caution, they are the current best answer to problems that were, in some cases, discovered the hard way. That is also the practical argument for following current research-based guidance over an inherited family recipe with no documented safety record, no matter how many times it "worked before."

@@ -43,8 +43,6 @@ Pouches pack more efficiently than canned goods by weight and volume, an advanta
 
 Vehicle interiors and trunks routinely exceed 120°F in direct summer sun and can drop well below freezing in winter, both far outside the 55-70°F range manufacturers use for shelf-life testing. Pouches stored long-term in a vehicle should be treated as having a meaningfully shorter practical shelf life than the printed number, and rotating vehicle-kit food on a one-to-two-year cycle regardless of the stated 25-year claim is a reasonable hedge against that temperature exposure.
 
-
-
 ## Comparing entree variety across a multi-day supply
 
 Eating the same one or two entree types for several consecutive days is a common complaint with pouch-format emergency food, both from a palatability standpoint and because monotonous meals can reduce how much people actually eat during a stressful period when adequate calorie intake matters most. Buying a sampler pack with eight to twelve distinct entrees, rather than a single flavor in bulk, is a small planning step that measurably improves how usable a pouch supply is during an actual multi-day event rather than a weekend backpacking trip where variety matters less.

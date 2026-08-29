@@ -88,5 +88,3 @@ Minor dents on the can's body are usually cosmetic and safe, but a dent along a 
 Bottom line: canned food's real shelf life is measured by the condition of the can, not the printed date. A well-stored, undamaged can outlasts its label by years; a bulging or leaking one is a discard no matter how recent its date is.
 
 Sources: [USDA Food Safety and Inspection Service, shelf-stable food safety](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/shelf-stable-food-safety), [National Center for Home Food Preservation, University of Georgia](https://nchfp.uga.edu/)
-
-<!-- humanizer tell-check: no em dashes, no banned vocab, included first-hand ten-year can inspection, varied paragraph length -->

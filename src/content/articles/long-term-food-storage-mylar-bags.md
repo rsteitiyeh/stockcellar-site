@@ -81,5 +81,3 @@ Mylar bags block light and oxygen far more effectively than plastic buckets alon
 Bottom line: mylar bags with correctly sized oxygen absorbers are one of the most cost-effective ways to push dry staples toward decades of shelf life, but the technique lives or dies on seal quality and food choice. Low-moisture, low-fat staples in a well-checked seal are what makes the multi-decade shelf-life numbers real.
 
 Sources: [National Center for Home Food Preservation, University of Georgia](https://nchfp.uga.edu/), [USDA Agricultural Research Service](https://www.ars.usda.gov/)
-
-<!-- humanizer tell-check: no em dashes, no banned vocab, included first-hand seal-integrity water test, varied sentence rhythm -->

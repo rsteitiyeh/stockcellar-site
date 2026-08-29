@@ -73,4 +73,3 @@ A home freeze dryer is worthwhile when you will run it often enough to justify t
 Before buying, check the unit's wet-food capacity, exterior dimensions, tray size, electrical requirements, operating clearance, pump type, warranty, and local service options. Plan a ventilated location with a level surface and enough room to drain defrost water. Also price recurring pouches, absorbers, pump oil if required, replacement parts, and electricity. Published purchase prices change, so compare current manufacturer specifications instead of using an old price estimate.
 
 The machine should complement proven preservation methods, not replace them all. Canning suits tested shelf-stable recipes, dehydration handles herbs and leathery fruit efficiently, and freezing often requires less preparation. A freeze dryer earns its space when its texture, low stored weight, and ability to preserve complete cooked foods match what your household will actually eat.
-

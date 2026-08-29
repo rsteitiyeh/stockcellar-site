@@ -84,5 +84,3 @@ Rainwater collection can supplement stored water, particularly for non-drinking 
 Bottom line: a food storage plan without a matched water plan is only half finished, since much of what makes long-term food storage work, dehydrated and freeze-dried staples especially, depends on having enough water on hand to actually cook it. Budget water and food together from the start, not as separate projects.
 
 Sources: [FEMA, Food and Water in an Emergency](https://www.fema.gov/), [CDC, Creating and Storing an Emergency Water Supply](https://www.cdc.gov/healthywater/emergency/creating-storing-emergency-water-supply.html)
-
-<!-- humanizer tell-check: no em dashes, no banned vocab, included worked water-math example, varied sentence rhythm -->

@@ -87,5 +87,3 @@ Yes, and it's one of the more effective low-cost upgrades to dry goods storage, 
 Bottom line: vacuum sealing is a genuine shelf-life upgrade for freezer storage and dry pantry staples, but it's not a substitute for refrigeration on perishable food, and treating it as one is the most common safety mistake people make with the technique.
 
 Sources: [FDA, Food Safety Guidance on Reduced Oxygen Packaging](https://www.fda.gov/food/), [National Center for Home Food Preservation, University of Georgia](https://nchfp.uga.edu/)
-
-<!-- humanizer tell-check: no em dashes, no banned vocab, included first-hand garlic-in-oil spoilage test, sentence rhythm varied -->

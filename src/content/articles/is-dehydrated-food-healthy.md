@@ -46,8 +46,6 @@ Lower drying temperatures, generally in the 125-135°F range commonly used for f
 
 Many commercially dried fruits, apricots and some raisins in particular, are treated with sulfur dioxide or sulfites before drying to preserve a bright color that would otherwise brown during processing. Sulfites are generally recognized as safe by regulatory standards but can trigger a reaction in people with sulfite sensitivity, a small but real subset of the population, most notably some individuals with asthma. Home-dehydrated fruit, and some commercial "no sulfites added" products, will appear browner or duller in color as a normal, harmless side effect of skipping this treatment.
 
-
-
 ## Rehydrating restores some, not all, of the original character
 
 Adding water back to dehydrated vegetables or fruit restores much of their volume and softens their texture, but it does not restore vitamin content lost during drying; rehydration is a texture and usability step, not a nutritional reversal. Cooking rehydrated vegetables further, as in a soup or stew, causes additional heat-related nutrient loss on top of what dehydrating already removed, similar to what happens when cooking any fresh vegetable, which is a normal and expected part of meal preparation rather than a specific downside of the dehydrating process itself.

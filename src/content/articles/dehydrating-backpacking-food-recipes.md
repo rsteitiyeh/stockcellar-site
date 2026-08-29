@@ -45,8 +45,6 @@ Vacuum-sealed bags or heavy-duty zip-top freezer bags with the air pressed out b
 
 Dehydrated meals made for one season's trips do not need to be used up before the next season if stored correctly, but checking bags for any sign of moisture, off odor, or insect activity before a new trip is worth the couple of minutes it takes, particularly for anything containing meat or that sat through a humid summer in a garage or basement without climate control.
 
-
-
 ## Scaling recipes for a multi-day trip
 
 Once a recipe is confirmed to rehydrate well, scaling up for a week-long trip is mostly arithmetic: multiply the dry weight of a single tested portion by the number of meals needed, keeping in mind that dehydrated food weighs a fraction of its cooked weight, often 15-25% for vegetables and rice-based meals, which is the entire point of drying it in the first place. Batch-cooking and dehydrating a large pot of a proven recipe over a weekend, then portioning it into individual trail-ready bags, is far more time-efficient than making and drying single servings before each trip.

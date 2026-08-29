@@ -46,8 +46,6 @@ Freeze-dried food loses more total weight than dehydrated food during processing
 
 Both methods depend on keeping moisture and oxygen out after processing, but dehydrated food, having retained slightly more residual moisture, is somewhat more sensitive to humid storage conditions reabsorbing that moisture over time than freeze-dried food is. This is one reason commercial freeze-dried products commonly claim longer shelf life even before accounting for differences in packaging technology; the food itself starts from a lower moisture baseline with less room for slow reabsorption to become a problem.
 
-
-
 ## Taste and texture in practice, not just theory
 
 In side-by-side taste tests common among home food preservers, freeze-dried strawberries come out light, crisp, and nearly melt-in-the-mouth, closer to a freeze-dried candy than a raisin-like dried fruit, while dehydrated strawberries turn chewy and concentrated in flavor, closer to a fruit leather in character. Neither is objectively better; a household planning snacks for kids might prefer the freeze-dried crunch, while a household making trail mix might prefer dehydrated fruit's chewier, more filling bite. Testing both on a small batch before committing to bulk-buying or bulk-processing either format is worth the modest cost.
