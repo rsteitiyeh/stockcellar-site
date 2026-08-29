@@ -3,7 +3,7 @@ title: "Long-Term Food Storage in Mylar Bags: The Full Method"
 description: "How to store food long term in mylar bags with oxygen absorbers, which foods work best, and how long a properly sealed mylar bag actually lasts."
 keyword: "long term food storage in mylar bags"
 publishDate: 2026-08-07
-author: "StockCellar"
+author: StockCellar
 draft: false
 ---
 

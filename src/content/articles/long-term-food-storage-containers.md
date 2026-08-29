@@ -3,7 +3,7 @@ title: "Long-Term Food Storage Containers: What Works Best"
 description: "A comparison of buckets, mylar, glass jars, and vacuum containers for long-term food storage, with rotation tips that keep stock fresh and organized."
 keyword: "long term food storage containers"
 publishDate: 2026-08-07
-author: "StockCellar"
+author: StockCellar
 draft: false
 ---
 

@@ -3,7 +3,7 @@ title: "How Long Is Canned Food Good For? A Real Answer"
 description: "How long home-canned and commercially canned food actually stays safe and tasty, plus the warning signs that mean a can should be thrown out."
 keyword: "how long is canning food good for"
 publishDate: 2026-08-07
-author: "StockCellar"
+author: StockCellar
 draft: false
 ---
 

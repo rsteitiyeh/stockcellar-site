@@ -3,7 +3,7 @@ title: "Vacuum Sealing for Food Preservation: What It Actually Does"
 description: "How vacuum sealing extends food storage life, which foods it works best for, and how it compares to regular bags or mylar for long-term storage."
 keyword: "vacuum sealing food preservation"
 publishDate: 2026-08-07
-author: "StockCellar"
+author: StockCellar
 draft: false
 ---
 

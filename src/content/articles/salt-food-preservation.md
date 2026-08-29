@@ -3,7 +3,7 @@ title: "Salt Food Preservation: How Curing Actually Works"
 description: "How salt preserves food through osmosis, which curing salts are safe for which foods, and how long salt-cured meat and vegetables actually last."
 keyword: "salt food preservation"
 publishDate: 2026-08-07
-author: "StockCellar"
+author: StockCellar
 draft: false
 ---
 

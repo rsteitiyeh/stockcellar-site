@@ -3,7 +3,7 @@ title: "Best Food for Long-Term Storage: What Actually Lasts"
 description: "The foods that genuinely last decades in storage, why fat and moisture shorten shelf life, and how to build a pantry around the longest-lasting staples."
 keyword: "best food for long term storage"
 publishDate: 2026-08-07
-author: "StockCellar"
+author: StockCellar
 draft: false
 ---
 

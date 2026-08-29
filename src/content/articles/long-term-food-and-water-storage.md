@@ -3,7 +3,7 @@ title: "Long-Term Food and Water Storage: A Combined Plan"
 description: "How to plan long-term food and water storage together, including gallons per person, rotation schedules, and where storage plans commonly fail."
 keyword: "long term food and water storage"
 publishDate: 2026-08-07
-author: "StockCellar"
+author: StockCellar
 draft: false
 ---
 
